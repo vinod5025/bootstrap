@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+}
+.background_image{
+	height: 600px;
+	width: 100%;
+	float: left;
+	background-image: url('https://bootstrapmade.com/demo/templates/Gp/assets/img/hero-bg.jpg');
+	background-size: 100% 100%;
+}
+.container-fluid li{
+	font-weight: bolder;
+	font-size: 20px;
+	color: red;
+
+
+}
+.text-custom h1{
+	font-weight: bolder;
+	margin-top: 50px;
+	color: white;
+	font-size: 50px;
+
+
+}
+.text-custom p{
+	font-size: 20px;
+	font-weight: bolder;
+	color: white;
+	
+
+}
+.main_menu{
+	position: sticky;
+	top: 0px;
+}
+.border-hide{
+	border:none;
+}
+.img-height{
+	height: 300px;
+}
+.background_image_building{
+	height: 400px;
+	flex: left;
+	width: 100%;
+	background-image: url('https://bootstrapmade.com/demo/templates/Gp/assets/img/cta-bg.jpg');
+	background-size: 100% 100%;
+
+}
+
+.menu_bar{
+	background-color:rgba(12,12,12,0.5) !important;
+	box-shadow: 
+}
